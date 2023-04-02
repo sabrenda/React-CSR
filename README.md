@@ -1,5 +1,6 @@
 # [Cheatsheet CSR]
 - **Set up**
+
 - **React Hooks** [Перейти](#react-hooks)
 1. useState
 2. useEffect
