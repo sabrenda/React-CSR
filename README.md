@@ -9,7 +9,7 @@
 5. useCallback
 6. useMemo
 
-- **React Router** [Перейти](#react-router)
+- **React Router** [Перейти](#reactrouter)
 1. BrowserRouter
 2. Routes
 3. Route
