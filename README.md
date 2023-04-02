@@ -1,5 +1,5 @@
 # [Cheatsheet CSR]
-- **Set up** [Перейти](#react-hooks)
+- **Set up**
 - **React Hooks** [Перейти](#react-hooks)
 1 useState
 2 useEffect
@@ -97,7 +97,7 @@ import React, { useState, useEffect } from 'react';
     };
   }, [user]);
 ```
-### [ReactRouterDom]
+### [ReactRouter]
 
 **React-Router** - это библиотека маршрутизации, обеспечивает переход между различными компонентами React, когда пользователь взаимодействует с интерфейсом. react-router поддерживает маршрутизацию как на стороне клиента (client-side), так и на стороне сервера (server-side).
 
