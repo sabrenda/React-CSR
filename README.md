@@ -1,21 +1,21 @@
 # [Cheatsheet CSR]
 - **Set up**
 - **React Hooks** [Перейти](#react-hooks)
-1 useState
-2 useEffect
-3 useContext
-4 useReducer
-5 useCallback
-6 useMemo
+1. useState
+2. useEffect
+3. useContext
+4. useReducer
+5. useCallback
+6. useMemo
 
 - **React Router** [Перейти](#react-router)
-1 BrowserRouter
-2 Routes
-3 Route
-4 Outlet
-5 Link / NavLink
-6 Navigate / useNavigate / Redirect
-7 useParams
+1. BrowserRouter
+2. Routes
+3. Route
+4. Outlet
+5. Link / NavLink
+6. Navigate / useNavigate / Redirect
+7. useParams
 
 - **Event handlers** [Перейти](#event-handlers)
 
