@@ -6,7 +6,7 @@
   
 | - | React Hooks/Components [#](#react-hooks) | link | React Router [#](#react-router) | link |
 |:-:|:-----------------:|:------------------:|:-------------------:|:------------------:|
-|1️⃣| **[useState]** | [#](#usestate) | **[BrowserRouter]** | [#](#1-browserrouter) |
+|1️⃣| **[useState]** | [#](#usestate) | **[BrowserRouter]** | [#](#1---browserrouter) |
 |2️⃣| **[useEffect]** | [#](#useeffect) | **[Routes]** | [#](#2-routes) |
 |3️⃣| **[useCallback]** | [#](#usecallback) | **[Route]** | [#](#3-route) |
 |4️⃣| **[useMemo]** | [#](#usememo) | **[Outlet]** | [#](#4-outlet) |
