@@ -360,7 +360,7 @@ c. **useNavigate** - Это хук, который предоставляет ф
 - onKeyPress: нажатие и удержание клавиши
 - onKeyUp: отпускание клавиши
 3. События формы и элементов ввода:
-- onChange: изменение значения элемента ввода *(например, <input>, <textarea> или <select>)*
+- onChange: изменение значения элемента ввода *(например, `<input>`, `<textarea>` или `<select>`)*
 - onSubmit: отправка формы
 - onFocus: получение фокуса элементом
 - onBlur: потеря фокуса элементом
@@ -490,7 +490,7 @@ function UseMemoExample() {
   const fiboResult = useMemo(() => fibo(fiboInput), [fiboInput]);
 
   return (
-    <div>
+    `<div>`
 
       <p>{boolean ? 'true' : 'false'}</p>
       <button type="button" onClick={() => { setBoolean(!boolean); }}>boo</button>
@@ -500,7 +500,7 @@ function UseMemoExample() {
       {fiboResult}
       <button type="button" onClick={() => { setFiboInput(fiboInput + 1); }}>+</button>
       <button type="button" onClick={() => { setFiboInput((prevState) => prevState - 1); }}>-</button>
-    </div>
+    `</div>`
   );
 }
 
