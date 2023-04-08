@@ -72,7 +72,7 @@
 -  `const [state, setState] = useState(initialState);` | state — текущее значение состояния
 -  `setState((prev) => [...prev, 'hello']);` | setState — функция для обновления состояния. При вызове этой функции с новым значением состояние будет обновлено, а компонент перерендерится.
 
-**[Пример кода](#useState)**
+**[Пример кода](#usestate-example)**
 
 ---
 
@@ -98,7 +98,7 @@ useEffect(() => {  // Выполнение побочного эффекта
 
 **Return** - *Функция эффекта может возвращать функцию очистки. Эта функция вызывается перед размонтированием компонента или когда какая-либо из зависимостей изменяется. Функция очистки используется для отмены действий, выполненных в функции эффекта, например, отписки от событий, очистки таймеров и т. д.*
 
-**[Пример кода](#useEffect)** | [Menu](#gear-menu)
+**[Пример кода](#useeffect-example)** | [Menu](#gear-menu)
 
 ---
 
@@ -132,7 +132,7 @@ const ExampleComponent = () => {
 ```
 *В этом примере, функция incrementCount мемоизируется с помощью useCallback. Зависимостей у функции нет, поэтому массив зависимостей пуст. Это означает, что incrementCount будет создана только один раз при первом рендере, а при последующих ререндерах будет использоваться мемоизированная версия функции.*
 
-**[Пример кода](#useCallback)** | [Menu](#gear-menu)
+**[Пример кода](#usecallback-example)** | [Menu](#gear-menu)
 
 ---
 
@@ -173,7 +173,7 @@ const ExampleComponent = () => {
 
 *В этом примере, функция incrementCount мемоизируется с помощью useCallback. Зависимостей у функции нет, поэтому массив зависимостей пуст. Это означает, что incrementCount будет создана только один раз при первом рендере, а при последующих ререндерах будет использоваться мемоизированная версия функции.*
 
-**[Пример кода](#useMemo)** | [Menu](#gear-menu)
+**[Пример кода](#usememo-example)** | [Menu](#gear-menu)
 
 ---
 
@@ -362,7 +362,7 @@ export default React.memo(PostListItem);
 
 *location*: Опциональное свойство, позволяющее передать собственный объект *location* для определения текущего маршрута. Это может быть полезно в редких случаях, когда вам нужно вручную контролировать местоположение вместо использования автоматического определения маршрута библиотекой react-router-dom.
 
-[Пример кода](#route)
+[Пример кода](#routes-example)
 
 ---
 
@@ -386,7 +386,7 @@ export default React.memo(PostListItem);
 
 *strict* -  булево свойство, определяющее, будет ли маршрут точно сопоставляться с путем с учетом слеша / на конце. Если true, маршрут будет считаться совпадающим только в том случае, если слеш на конце пути будет соответствовать текущему маршруту. По умолчанию равно false.
 
-[Пример кода](#route)
+[Пример кода](#route-example)
 
 ---
 
@@ -410,7 +410,7 @@ export default React.memo(PostListItem);
   
 ❗️**Опциональный: ** "replace" или объект "state"
   
-[Пример кода](#link)
+[Пример кода](#link-example)
 
 ######################################[NavLink]######################################
 
@@ -422,7 +422,7 @@ export default React.memo(PostListItem);
   
 ❗️**Опциональный:** "replace", "activeClassName", "activeStyle", "exact",  или объект "state"
   
-[Пример кода](#navlink)
+[Пример кода](#navlink-example)
 
  ---
   
@@ -438,7 +438,7 @@ export default React.memo(PostListItem);
   
 ❗️**Опциональный:** "replace",  объект "state"
   
-[Пример кода](#navigate)
+[Пример кода](#navigate-example)
 
 ######################################[Redirect]######################################
 
@@ -448,7 +448,7 @@ export default React.memo(PostListItem);
   
 ❗️**Опциональный:** "from", "exact"
   
- [Пример кода](#redirect)
+ [Пример кода](#redirect-example)
 
 ######################################[useNavigate]######################################
 
@@ -458,7 +458,7 @@ export default React.memo(PostListItem);
   
 ❗️**Опциональный:** объект c "replace" или "state"
   
-[Пример кода](#usenavigate)
+[Пример кода](#usenavigate-example)
 
 ---
 
@@ -466,7 +466,7 @@ export default React.memo(PostListItem);
 
 хук, который позволяет получить доступ к параметрам из текущего URL-адреса в React-компоненте.
 
-[Пример кода](#useparams)
+[Пример кода](#useparams-example)
 
 [Menu](#gear-menu)
 
@@ -532,7 +532,7 @@ export default React.memo(PostListItem);
 
 ---
   
-### useState
+### useState-example
  
 ```js
 import React, { useState } from 'react';
@@ -554,7 +554,7 @@ function Counter() {
 ```
 ---
   
-### useEffect
+### useEffect-example
   
 ```js
 import React, { useState, useEffect } from 'react';
@@ -577,7 +577,7 @@ import React, { useState, useEffect } from 'react';
   
 ---
   
-### useCallback
+### useCallback-example
   
 ```js
 import React, { useState, useCallback } from 'react';
@@ -621,7 +621,7 @@ export default PostList;
   
 ---
   
-### useMemo
+### useMemo-example
   
 ```js
 import React, { useState, useMemo } from 'react';
@@ -660,7 +660,7 @@ export default UseMemoExample;
   
 ---
   
-### Route
+### Route-example
   
 ```js
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
@@ -699,7 +699,7 @@ export default App;
   
 ---
   
-### Outlet
+### Outlet-example
   
 ```js
 const ServicesLayout = () => {
@@ -714,7 +714,7 @@ const ServicesLayout = () => {
   
 ---
   
-### Link
+### Link-example
   
 ```js
 import { Link } from 'react-router-dom';
@@ -731,7 +731,7 @@ const Navigation = () => {
 ```
 ---
   
-### NavLink
+### NavLink-example
   
 ```js
 import { NavLink } from 'react-router-dom';
@@ -756,7 +756,7 @@ const Navigation = () => {
   
 ---
   
-#### Navigate
+#### Navigate-example
   
 ```js
 import { Navigate } from 'react-router-dom';
@@ -766,7 +766,7 @@ const RedirectToHome = () => {
 };
 ```
 ---
-#### Redirect
+#### Redirect-example
 ```js
 import { Route, Routes, Redirect } from 'react-router-dom';
 import Dashboard from './components/Dashboard';
@@ -785,7 +785,7 @@ const AppRoutes = () => {
   
 ---
   
-#### useNavigate
+#### useNavigate-example
   
 ```js
 import { useNavigate } from 'react-router-dom';
@@ -802,7 +802,7 @@ const RedirectToHomeButton = () => {
 
 ---
 
-#### useParams
+#### useParams-example
   
 *Создайте маршрут с динамическим параметром (например, :id) в вашем компоненте App:*
 ```js
