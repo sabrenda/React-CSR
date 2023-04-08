@@ -12,8 +12,8 @@
 |2| **useEffect** | [#](#useeffect) | --------------**Routes**-------------- | [#](#2-routes) |
 |3| **useCallback** | [#](#usecallback) | ---------------**Route**--------------- | [#](#3-route) |
 |4| **useMemo** | [#](#usememo) | ---------------**Outlet**--------------- | [#](#4-outlet) |
-|5| **useContext** | [#](#usecontext) | -----------**Link / NavLink**----------- | [#](#5-link-|-navLink) |
-|6| **useReducer** | [#](#usereducer) | -**Navigate / useNavigate / Redirect**- | [#](#6-navigate-|-useNavigate-|-redirect) |
+|5| **useContext** | [#](#usecontext) | -----------**Link / NavLink**----------- | [#](#5-link-/-navLink) |
+|6| **useReducer** | [#](#usereducer) | -**Navigate / useNavigate / Redirect**- | [#](#6-navigate-/-useNavigate-/-redirect) |
 |7| - | - | ------------**useParams**------------ | [#](#7-useparams) |
 
 
