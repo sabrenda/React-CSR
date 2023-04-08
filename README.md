@@ -4,9 +4,9 @@
 
 ## ⚙️ Menu
   
-| - | React Hooks | [#](#react-hooks) | React Router | [#](#react-router) |
+| - | **React Hooks** | [#](#react-hooks) | **React Router** | [#](#react-router) |
 |:-:|:-----------------:|:------------------:|:-------------------:|:------------------:|
-|1️⃣| **[useState]** | [#](#usestate) | **[BrowserRouter]** | [#](#1---browserrouter) |
+|1️⃣| [useState] | [#](#usestate) | **[BrowserRouter]** | [#](#1---browserrouter) |
 |2️⃣| **[useEffect]** | [#](#useeffect) | **[Routes]** | [#](#2---routes) |
 |3️⃣| **[useCallback]** | [#](#usecallback) | **[Route]** | [#](#3---route) |
 |4️⃣| **[useMemo]** | [#](#usememo) | **[Outlet]** | [#](#4---outlet) |
