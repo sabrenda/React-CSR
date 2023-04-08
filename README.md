@@ -1,4 +1,4 @@
-# [⚡︎3-Phase-CSR⚡︎]
+# ⚡︎3-Phase-CSR⚡︎
 
 <div id="gear-menu"></div>
 
