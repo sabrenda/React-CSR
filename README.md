@@ -41,7 +41,9 @@
 - `npx create-react-app client --template typescript` | [on TypeScript](https://create-react-app.dev/)
 - `npm i react-router-dom` | [React Router](https://reactrouter.com/en/main)
 - `npm i redux react-redux @redux-devtools/extension @reduxjs/toolkit` | [redux.js.org](https://redux.js.org/) | [redux-toolkit.js](https://redux-toolkit.js.org/)
+
 Расширения
+
 1. React Developer Tools | [link](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=ru)
 2. Redux DevTools | [link](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
 
