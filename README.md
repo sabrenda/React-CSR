@@ -27,12 +27,6 @@
 3. Redux/toolkit
 4. Redux/Saga
 5. Prisma ORM
----
-
-Документация по React
-- **React.dev** | [link](https://react.dev/)
-- **React Router** | [link](https://reactrouter.com/en/main)
-- **w3schools** [link](https://www.w3schools.com/react/default.asp)
 
 ---
 ---
@@ -51,6 +45,11 @@
 - **MUI** | [перейти](https://mui.com/)
 - **Tailwindcss** | [перейти](https://tailwindcss.com/docs/installation)
 - **Reactstrap** | [перейти](https://reactstrap.github.io/?path=/story/home-installation--page)
+
+Документация по React
+- **React.dev** | [link](https://react.dev/)
+- **React Router** | [link](https://reactrouter.com/en/main)
+- **w3schools** [link](https://www.w3schools.com/react/default.asp)
 
 ---
 ---
