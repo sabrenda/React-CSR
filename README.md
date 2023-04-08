@@ -61,6 +61,8 @@
 ---
 # React Hooks
 
+[Menu](#gear-menu)
+
 ### [useState]
 [**официальная документация**](https://react.dev/reference/react/useState)
 
@@ -329,6 +331,9 @@ export default React.memo(PostListItem);
 ---
 
 ### [React Router]
+
+[Menu](#gear-menu)
+
 [**официальная документация**](https://reactrouter.com/en/main/start/tutorial)
 
 **React-Router** - это библиотека маршрутизации, обеспечивает переход между различными компонентами React, когда пользователь взаимодействует с интерфейсом. react-router поддерживает маршрутизацию как на стороне клиента (client-side), так и на стороне сервера (server-side). **React-Router** предоставляет ряд компонентов и хуков, которые могут быть использованы для создания маршрутизации.
