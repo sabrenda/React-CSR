@@ -14,7 +14,7 @@
 
 - **React memo** [Перейти](#react-memo)
 
-- **React Router** [Перейти](#react-router)
+- **React Router** [Перейти](#react-router-|-[**официальная документация**](https://reactrouter.com/en/main/start/tutorial))
 
 | # | React Router | link |
 | - | ------ | ------ |
