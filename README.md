@@ -1,4 +1,7 @@
-<div align="center"><h1>⚡︎3-Phase-CSR⚡︎</h1></div>
+<div align="center"><h1>⚡︎React⚡︎</h1></div>
+<div align="center"><h1>⚡︎3-Phase⚡︎</h1></div>
+<div align="center"><h1>⚡︎CSR⚡︎</h1></div>
+
 
 <div id="gear-menu"></div>
 
