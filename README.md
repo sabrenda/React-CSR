@@ -3,6 +3,10 @@
 <div id="gear-menu"></div>
 
 ## ⚙️ Menu
+Документация по React
+- **React.dev** | [Перейти](https://react.dev/)
+- **React Router** | [Перейти](https://reactrouter.com/en/main)
+- **w3schools** [Перейти](https://www.w3schools.com/react/default.asp)
 
 - **Set up** [Перейти](#react-hooks)
 - **React Hooks** [Перейти](#react-hooks)
@@ -50,9 +54,9 @@
 - `npm i redux react-redux @redux-devtools/extension @reduxjs/toolkit` | [redux](https://redux.js.org/) | [devtools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd) | [toolkit](https://redux-toolkit.js.org/)
 
 ## 🧑‍🎨 Style 
-- *MUI* | [перейти](https://mui.com/)
-- *Tailwindcss* | [перейти](https://tailwindcss.com/docs/installation)
-- *Reactstrap* | [перейти](https://reactstrap.github.io/?path=/story/home-installation--page)
+- **MUI** | [перейти](https://mui.com/)
+- **Tailwindcss** | [перейти](https://tailwindcss.com/docs/installation)
+- **Reactstrap** | [перейти](https://reactstrap.github.io/?path=/story/home-installation--page)
 
 ---
 ---
