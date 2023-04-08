@@ -17,13 +17,7 @@
 |7| **React memo** | [#](#react-memo) | ------------**useParams**------------ | [#](#7-useparams) |
 
 - **Event handlers** [🔽](#event-handlers)
-
----
-Документация по React
-- **React.dev** | [link](https://react.dev/)
-- **React Router** | [link](https://reactrouter.com/en/main)
-- **w3schools** [link](https://www.w3schools.com/react/default.asp)
----
+- **Примеры кода** [🔽](#примеры-кода)
 
 - **Доп библиотеки** [в процессе...]
 1. Axios
@@ -32,7 +26,13 @@
 4. Redux/Saga
 5. Prisma ORM
 
-- **Примеры кода** [link](#примеры-кода)
+---
+Документация по React
+- **React.dev** | [link](https://react.dev/)
+- **React Router** | [link](https://reactrouter.com/en/main)
+- **w3schools** [link](https://www.w3schools.com/react/default.asp)
+---
+
 ---
 ---
 ## Init
