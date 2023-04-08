@@ -6,7 +6,7 @@
 
 - **Set up** [Перейти](#react-hooks)
   
-| # | React Hooks [#](#react-hooks) | link | React Router [#](#react-router) | link |
+| # | React Hooks/Elements [#](#react-hooks) | link | React Router [#](#react-router) | link |
 |:-:|:-----------------:|:------------------:|:-------------------:|:------------------:|
 |1| **useState** | [#](#usestate) | ----------**BrowserRouter**---------- | [#](#1-browserrouter) |
 |2| **useEffect** | [#](#useeffect) | --------------**Routes**-------------- | [#](#2-routes) |
@@ -14,11 +14,7 @@
 |4| **useMemo** | [#](#usememo) | ---------------**Outlet**--------------- | [#](#4-outlet) |
 |5| **useContext** | [#](#usecontext) | -----------**Link / NavLink**----------- | [#](#5-link-navLink) |
 |6| **useReducer** | [#](#usereducer) | -**Navigate / useNavigate / Redirect**- | [#](#6-navigate-redirect-usenavigate) |
-|7| - | - | ------------**useParams**------------ | [#](#7-useparams) |
-
-
-
-- **React memo** [Перейти](#react-memo)
+|7| **React memo** | [#](#react-memo) | ------------**useParams**------------ | [#](#7-useparams) |
 
 - **Event handlers** [Перейти](#event-handlers)
 
@@ -29,12 +25,12 @@
 - **w3schools** [Перейти](https://www.w3schools.com/react/default.asp)
 ---
 
-- **Доп библиотеки**
-1 Axios
-2 Redux
-3 Redux/toolkit
-4 Redux/Saga
-5 Prisma ORM
+- **Доп библиотеки** [в процессе...]
+1. Axios
+2. Redux
+3. Redux/toolkit
+4. Redux/Saga
+5. Prisma ORM
 
 - **Примеры кода**
 ---
