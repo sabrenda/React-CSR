@@ -14,9 +14,9 @@
 |6️⃣| **[useReducer]** | [#](#usereducer) | **[Navigate / useNavigate / Redirect]** | [#](#6-navigate-redirect-usenavigate) |
 |7️⃣| **[React memo]** | [#](#react-memo) | **[useParams]** | [#](#7-useparams) |
 
-+ **INIT** [🔽](#init)
-+ **Event handlers** [🔽](#event-handlers)
-+ **Примеры кода** [🔽](#примеры-кода)
+* **INIT** [🔽](#init)
+* **Event handlers** [🔽](#event-handlers)
+* **Примеры кода** [🔽](#примеры-кода)
 
 **Доп библиотеки** [в процессе...]
 1. Axios
