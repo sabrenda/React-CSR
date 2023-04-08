@@ -30,7 +30,7 @@
 
 ---
 ---
-## Init
+## INIT
 - `npx create-react-app client` | [Create React App: Docs](https://create-react-app.dev/)
 - `npx create-react-app client --template typescript` | [on TypeScript: Docs](https://create-react-app.dev/)
 - `npm i react-router-dom` | [React Router: Docs](https://reactrouter.com/en/main)
@@ -46,7 +46,7 @@
 - **Tailwindcss** | [перейти](https://tailwindcss.com/docs/installation)
 - **Reactstrap** | [перейти](https://reactstrap.github.io/?path=/story/home-installation--page)
 
-Документация по React
+📜 Документация по React
 - **React.dev** | [link](https://react.dev/)
 - **React Router** | [link](https://reactrouter.com/en/main)
 - **w3schools** [link](https://www.w3schools.com/react/default.asp)
