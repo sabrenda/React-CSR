@@ -383,7 +383,7 @@ export default React.memo(PostListItem);
 
 ---
 
-### 5 Link | NavLink
+### 5 Link / NavLink
 
 [ссылки]
 
@@ -407,7 +407,7 @@ b. **NavLink** - похож на Link, но с дополнительной во
 
  ---
   
-### 6 Navigate | Redirect | useNavigate
+### 6 Navigate / Redirect / useNavigate
 
 [перенаправление]
 
