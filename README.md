@@ -475,6 +475,8 @@ export default React.memo(PostListItem);
   
 ### [Event handlers]
 
+[Menu](#gear-menu)
+
 1. События мыши:
 - onClick: клик по элементу
 - onDoubleClick: двойной клик по элементу
@@ -529,6 +531,8 @@ export default React.memo(PostListItem);
 ---
   
 # Примеры кода
+
+[Menu](#gear-menu)
 
 ---
   
