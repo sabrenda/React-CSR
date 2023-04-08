@@ -9,6 +9,7 @@
 
 
 <div align="center">
+  
 | # | React Hooks | link | React Router | link |
 | - | ------ | ------ | ------ | ------ |
 |1| **useState** | [🔽](#usestate) | **BrowserRouter** | [🔽](#1-browserrouter) |
@@ -18,6 +19,7 @@
 |5| **useContext** | [🔽](#usecontext) | **Link / NavLink** | [🔽](#link-/-navLink) |
 |6| **useReducer** | [🔽](#usereducer) | **Navigate / useNavigate / Redirect** | [🔽](#navigate-/-useNavigate-/-redirect) |
 |7| - | - | **useParams** | [🔽](#useparams) |
+
 </div>
 
 - **React memo** [Перейти](#react-memo)
