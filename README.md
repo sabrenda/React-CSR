@@ -12,8 +12,8 @@
 |2| **useEffect** | [#](#useeffect) | --------------**Routes**-------------- | [#](#2-routes) |
 |3| **useCallback** | [#](#usecallback) | ---------------**Route**--------------- | [#](#3-route) |
 |4| **useMemo** | [#](#usememo) | ---------------**Outlet**--------------- | [#](#4-outlet) |
-|5| **useContext** | [#](#usecontext) | -----------**Link / NavLink**----------- | [#](#5-link-/-navLink) |
-|6| **useReducer** | [#](#usereducer) | -**Navigate / useNavigate / Redirect**- | [#](#6-navigate-/-redirect-/-usenavigate) |
+|5| **useContext** | [#](#usecontext) | -----------**Link | NavLink**----------- | [#](#5-link-navLink) |
+|6| **useReducer** | [#](#usereducer) | -**Navigate | useNavigate | Redirect**- | [#](#6-navigate-redirect-usenavigate) |
 |7| - | - | ------------**useParams**------------ | [#](#7-useparams) |
 
 
@@ -383,7 +383,7 @@ export default React.memo(PostListItem);
 
 ---
 
-### 5 Link / NavLink
+### 5 Link NavLink
 
 [ссылки]
 
@@ -407,7 +407,7 @@ b. **NavLink** - похож на Link, но с дополнительной во
 
  ---
   
-### 6 Navigate / Redirect / useNavigate
+### 6 Navigate Redirect useNavigate
 
 [перенаправление]
 
