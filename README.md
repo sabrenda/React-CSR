@@ -1,4 +1,7 @@
-# [Cheatsheet CSR]
+# [3-Phase-CSR]
+
+## ⚙️ Menu
+
 - **Set up** [Перейти](#react-hooks)
 - **React Hooks** [Перейти](#react-hooks)
 
@@ -60,7 +63,7 @@
 -  `const [state, setState] = useState(initialState);` | state — текущее значение состояния
 -  `setState((prev) => [...prev, 'hello']);` | setState — функция для обновления состояния. При вызове этой функции с новым значением состояние будет обновлено, а компонент перерендерится.
 
-**[Пример кода](#useState)**
+**[Пример кода](#useState)** | [Menu](#⚙️-menu)
 
 ---
 
