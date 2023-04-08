@@ -9,12 +9,12 @@
 | # | React Hooks [Перейти](#react-hooks) | link | React Router [Перейти](#react-router) | link |
 |:-:|:-----------------:|:------------------:|:-------------------:|:------------------:|
 |1| **useState** | [#](#usestate) | ----------**BrowserRouter**---------- | [#](#1-browserrouter) |
-|2| **useEffect** | [#](#useeffect) | --------------**Routes**-------------- | [#](#routes) |
-|3| **useCallback** | [#](#usecallback) | ---------------**Route**--------------- | [#](#route) |
-|4| **useMemo** | [#](#usememo) | ---------------**Outlet**--------------- | [#](#outlet) |
-|5| **useContext** | [#](#usecontext) | -----------**Link / NavLink**----------- | [#](#link-/-navLink) |
-|6| **useReducer** | [#](#usereducer) | -**Navigate / useNavigate / Redirect**- | [#](#navigate-/-useNavigate-/-redirect) |
-|7| - | - | ------------**useParams**------------ | [#](#useparams) |
+|2| **useEffect** | [#](#useeffect) | --------------**Routes**-------------- | [#](#2-routes) |
+|3| **useCallback** | [#](#usecallback) | ---------------**Route**--------------- | [#](#3-route) |
+|4| **useMemo** | [#](#usememo) | ---------------**Outlet**--------------- | [#](#4-outlet) |
+|5| **useContext** | [#](#usecontext) | -----------**Link / NavLink**----------- | [#](#5-link-/-navLink) |
+|6| **useReducer** | [#](#usereducer) | -**Navigate / useNavigate / Redirect**- | [#](#6-navigate-/-useNavigate-/-redirect) |
+|7| - | - | ------------**useParams**------------ | [#](#7-useparams) |
 
 
 
@@ -354,8 +354,6 @@ export default React.memo(PostListItem);
 ### 3 Route
 
 пределяет сопоставление между URL-адресом и компонентом, который должен быть отображен при совпадении этого URL.
-
----
 
 **❗️обязательный параметр**
 
