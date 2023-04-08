@@ -4,7 +4,7 @@
 
 ## ⚙️ Menu
 
-- **Set up** [Перейти](#react-hooks)
+- **Init** [#](#init)
   
 | # | React Hooks/Elements [#](#react-hooks) | link | React Router [#](#react-router) | link |
 |:-:|:-----------------:|:------------------:|:-------------------:|:------------------:|
@@ -16,13 +16,13 @@
 |6| **useReducer** | [#](#usereducer) | -**Navigate / useNavigate / Redirect**- | [#](#6-navigate-redirect-usenavigate) |
 |7| **React memo** | [#](#react-memo) | ------------**useParams**------------ | [#](#7-useparams) |
 
-- **Event handlers** [Перейти](#event-handlers)
+- **Event handlers** [#](#event-handlers)
 
 ---
 Документация по React
-- **React.dev** | [Перейти](https://react.dev/)
-- **React Router** | [Перейти](https://reactrouter.com/en/main)
-- **w3schools** [Перейти](https://www.w3schools.com/react/default.asp)
+- **React.dev** | [link](https://react.dev/)
+- **React Router** | [link](https://reactrouter.com/en/main)
+- **w3schools** [link](https://www.w3schools.com/react/default.asp)
 ---
 
 - **Доп библиотеки** [в процессе...]
@@ -35,7 +35,7 @@
 - **Примеры кода**
 ---
 ---
-## 🆙 Set up
+## Init
 - `npx create-react-app client` | [Create React App](https://create-react-app.dev/)
 - `npx create-react-app client --template typescript` | [on TypeScript](https://create-react-app.dev/)
 - `npm i react-router-dom` | [React Router](https://reactrouter.com/en/main)
