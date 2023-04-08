@@ -7,12 +7,12 @@
 | - | React Hooks/Components [#](#react-hooks) | link | React Router [#](#react-router) | link |
 |:-:|:-----------------:|:------------------:|:-------------------:|:------------------:|
 |1️⃣| **[useState]** | [#](#usestate) | **[BrowserRouter]** | [#](#1---browserrouter) |
-|2️⃣| **[useEffect]** | [#](#useeffect) | **[Routes]** | [#](#2-routes) |
-|3️⃣| **[useCallback]** | [#](#usecallback) | **[Route]** | [#](#3-route) |
-|4️⃣| **[useMemo]** | [#](#usememo) | **[Outlet]** | [#](#4-outlet) |
-|5️⃣| **[useContext]** | [#](#usecontext) | **[Link / NavLink]** | [#](#5-link-navLink) |
-|6️⃣| **[useReducer]** | [#](#usereducer) | **[Navigate / useNavigate / Redirect]** | [#](#6-navigate-redirect-usenavigate) |
-|7️⃣| **[React memo]** | [#](#react-memo) | **[useParams]** | [#](#7-useparams) |
+|2️⃣| **[useEffect]** | [#](#useeffect) | **[Routes]** | [#](#2---routes) |
+|3️⃣| **[useCallback]** | [#](#usecallback) | **[Route]** | [#](#3---route) |
+|4️⃣| **[useMemo]** | [#](#usememo) | **[Outlet]** | [#](#4---outlet) |
+|5️⃣| **[useContext]** | [#](#usecontext) | **[Link / NavLink]** | [#](#5---link-navLink) |
+|6️⃣| **[useReducer]** | [#](#usereducer) | **[Navigate / useNavigate / Redirect]** | [#](#6---navigate-redirect-usenavigate) |
+|7️⃣| **[React memo]** | [#](#react-memo) | **[useParams]** | [#](#7---useparams) |
 
 🏁 **INIT** [🔽](#init)
 
@@ -358,7 +358,7 @@ export default React.memo(PostListItem);
 
 ---
 
-### 3 Route
+### 3 - Route
 
 пределяет сопоставление между URL-адресом и компонентом, который должен быть отображен при совпадении этого URL.
 
@@ -382,7 +382,7 @@ export default React.memo(PostListItem);
 
 ---
 
-### 4 Outlet
+### 4 - Outlet
 
 используется для отображения дочерних маршрутов внутри родительского маршрута.
 
@@ -390,7 +390,7 @@ export default React.memo(PostListItem);
 
 ---
 
-### 5 Link NavLink
+### 5 - Link NavLink
 
 [ссылки]
 
@@ -418,7 +418,7 @@ export default React.memo(PostListItem);
 
  ---
   
-### 6 Navigate Redirect useNavigate
+### 6 - Navigate Redirect useNavigate
 
 [перенаправление]
 
@@ -454,7 +454,7 @@ export default React.memo(PostListItem);
 
 ---
 
-### 7 useParams
+### 7 - useParams
 
 это хук, предоставляемый библиотекой react-router-dom, который позволяет получить доступ к параметрам из текущего URL-адреса в React-компоненте.
 
