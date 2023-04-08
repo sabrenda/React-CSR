@@ -4,7 +4,7 @@
 
 ## ⚙️ Menu
   
-| - | React Hooks/Components [#](#react-hooks) | link | React Router Hooks/Components [#](#react-router) | link |
+| - | React Hooks/Components | [#](#react-hooks) | React Router Hooks/Components | [#](#react-router) |
 |:-:|:-----------------:|:------------------:|:-------------------:|:------------------:|
 |1️⃣| **[useState]** | [#](#usestate) | **[BrowserRouter]** | [#](#1---browserrouter) |
 |2️⃣| **[useEffect]** | [#](#useeffect) | **[Routes]** | [#](#2---routes) |
