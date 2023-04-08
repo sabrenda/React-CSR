@@ -416,8 +416,6 @@ export default React.memo(PostListItem);
   
 [Пример кода](#navlink)
 
-####################################################################################
-
  ---
   
 ### 6 Navigate Redirect useNavigate
@@ -453,8 +451,6 @@ export default React.memo(PostListItem);
 ❗️**Опциональный:** объект c "replace" или "state"
   
 [Пример кода](#usenavigate)
-
-####################################################################################
 
 ---
 
