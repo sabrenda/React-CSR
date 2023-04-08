@@ -12,11 +12,11 @@
 | # | React Hooks | link | React Router | link |
 |:-:|:-----------------:|:------------------:|:-------------------:|:------------------:|
 |1| **useState** | [🔽](#usestate) | ------------**BrowserRouter**------------ | [🔽](#1-browserrouter) |
-|2| **useEffect** | [🔽](#useeffect) | **Routes** | [🔽](#routes) |
-|3| **useCallback** | [🔽](#usecallback) | **Route** | [🔽](#route) |
-|4| **useMemo** | [🔽](#usememo) | **Outlet** | [🔽](#outlet) |
-|5| **useContext** | [🔽](#usecontext) | **Link / NavLink** | [🔽](#link-/-navLink) |
-|6| **useReducer** | [🔽](#usereducer) | **Navigate / useNavigate / Redirect** | [🔽](#navigate-/-useNavigate-/-redirect) |
+|2| **useEffect** | [🔽](#useeffect) | ------------**Routes**------------ | [🔽](#routes) |
+|3| **useCallback** | [🔽](#usecallback) | ------------**Route**------------ | [🔽](#route) |
+|4| **useMemo** | [🔽](#usememo) | ------------**Outlet**------------ | [🔽](#outlet) |
+|5| **useContext** | [🔽](#usecontext) | ------**Link / NavLink**------ | [🔽](#link-/-navLink) |
+|6| **useReducer** | [🔽](#usereducer) | ---**Navigate / useNavigate / Redirect**--- | [🔽](#navigate-/-useNavigate-/-redirect) |
 |7| - | - | **useParams** | [🔽](#useparams) |
 
 
