@@ -23,13 +23,13 @@
 
 | # | React Router | link |
 | - | ------ | ------ |
-|1| **BrowserRouter** | -[🔽](#1-browserrouter)- |
-|2| **Routes** | -[🔽](#routes)- |
-|3| **Route** | -[🔽](#route)- |
-|4| **Outlet** | -[🔽](#outlet)- |
-|5| **Link / NavLink** | -[🔽](#link-/-navLink)- |
-|6| **Navigate / useNavigate / Redirect** | -[🔽](#navigate-/-useNavigate-/-redirect)- |
-|7| **useParams** | -[🔽](#useparams)- |
+|1| **BrowserRouter** | [🔽](#1-browserrouter) |
+|2| **Routes** | [🔽](#routes) |
+|3| **Route** | [🔽](#route) |
+|4| **Outlet** | [🔽](#outlet) |
+|5| **Link / NavLink** | [🔽](#link-/-navLink) |
+|6| **Navigate / useNavigate / Redirect** | [🔽](#navigate-/-useNavigate-/-redirect) |
+|7| **useParams** | [🔽](#useparams) |
 
 - **Event handlers** [Перейти](#event-handlers)
 
@@ -49,9 +49,11 @@
 - `npm i react-router-dom` | [React Router](https://reactrouter.com/en/main)
 - `npm i redux react-redux @redux-devtools/extension @reduxjs/toolkit` | [redux](https://redux.js.org/) | [devtools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd) | [toolkit](https://redux-toolkit.js.org/)
 
-## 🧑‍🎨 OPTION 
-- `npm install @mui/material @emotion/react @emotion/styled` | [MUI](https://mui.com/)
-- `npm install react-bootstrap bootstrap` | [react-bootstrap](https://react-bootstrap.github.io/)
+## 🧑‍🎨 Style 
+- *MUI* | [перейти](https://mui.com/)
+- *Tailwindcss* | [перейти](https://tailwindcss.com/docs/installation)
+- *Reactstrap* | [перейти](https://reactstrap.github.io/?path=/story/home-installation--page)
+
 ---
 ---
 # React Hooks
