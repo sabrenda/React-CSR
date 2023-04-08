@@ -4,7 +4,7 @@
 
 ## ⚙️ Menu
 
-- **Init** [#](#init)
+- **INIT** [🔽](#init)
   
 | # | React Hooks/Elements [#](#react-hooks) | link | React Router [#](#react-router) | link |
 |:-:|:-----------------:|:------------------:|:-------------------:|:------------------:|
@@ -16,7 +16,7 @@
 |6| **useReducer** | [#](#usereducer) | -**Navigate / useNavigate / Redirect**- | [#](#6-navigate-redirect-usenavigate) |
 |7| **React memo** | [#](#react-memo) | ------------**useParams**------------ | [#](#7-useparams) |
 
-- **Event handlers** [#](#event-handlers)
+- **Event handlers** [🔽](#event-handlers)
 
 ---
 Документация по React
@@ -32,7 +32,7 @@
 4. Redux/Saga
 5. Prisma ORM
 
-- **Примеры кода**
+- **Примеры кода** [link](#примеры-кода)
 ---
 ---
 ## Init
