@@ -6,13 +6,13 @@
   
 | # | React Hooks/Components [#](#react-hooks) | link | React Router [#](#react-router) | link |
 |:-:|:-----------------:|:------------------:|:-------------------:|:------------------:|
-|1| **[useState]** | [#](#usestate) | ----------**BrowserRouter**---------- | [#](#1-browserrouter) |
-|2| **[useEffect]** | [#](#useeffect) | --------------**Routes**-------------- | [#](#2-routes) |
-|3| **[useCallback]** | [#](#usecallback) | ---------------**Route**--------------- | [#](#3-route) |
-|4| **[useMemo]** | [#](#usememo) | ---------------**Outlet**--------------- | [#](#4-outlet) |
-|5| **[useContext]** | [#](#usecontext) | -----------**Link / NavLink**----------- | [#](#5-link-navLink) |
-|6| **[useReducer]** | [#](#usereducer) | -**Navigate / useNavigate / Redirect**- | [#](#6-navigate-redirect-usenavigate) |
-|7| **[React memo]** | [#](#react-memo) | ------------**useParams**------------ | [#](#7-useparams) |
+|1| **[useState]** | [#](#usestate) | ----------**[BrowserRouter]**---------- | [#](#1-browserrouter) |
+|2| **[useEffect]** | [#](#useeffect) | --------------**[Routes]**-------------- | [#](#2-routes) |
+|3| **[useCallback]** | [#](#usecallback) | ---------------**[Route]**--------------- | [#](#3-route) |
+|4| **[useMemo]** | [#](#usememo) | ---------------**[Outlet]**--------------- | [#](#4-outlet) |
+|5| **[useContext]** | [#](#usecontext) | -----------**[Link / NavLink]**----------- | [#](#5-link-navLink) |
+|6| **[useReducer]** | [#](#usereducer) | -**[Navigate / useNavigate / Redirect]**- | [#](#6-navigate-redirect-usenavigate) |
+|7| **[React memo]** | [#](#react-memo) | ------------**[useParams]**------------ | [#](#7-useparams) |
 
 - **INIT** [🔽](#init)
 - **Event handlers** [🔽](#event-handlers)
