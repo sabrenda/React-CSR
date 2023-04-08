@@ -14,11 +14,11 @@
 |6️⃣| **[useReducer]** | [#](#usereducer) | **[Navigate / useNavigate / Redirect]** | [#](#6-navigate-redirect-usenavigate) |
 |7️⃣| **[React memo]** | [#](#react-memo) | **[useParams]** | [#](#7-useparams) |
 
-**INIT** [🔽](#init)
+🏁 **INIT** [🔽](#init)
 
-**Event handlers** [🔽](#event-handlers)
+⌨️ **Event handlers** [🔽](#event-handlers)
 
-**Примеры кода** [🔽](#примеры-кода)
+📝 **Примеры кода** [🔽](#примеры-кода)
 
 ---
 **⭐️ Доп** 🔽 [в процессе...]
