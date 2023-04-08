@@ -5,11 +5,8 @@
 ## ⚙️ Menu
 
 - **Set up** [Перейти](#react-hooks)
-- **React Hooks** [Перейти](#react-hooks)
-
-
   
-| # | React Hooks | link | React Router | link |
+| # | React Hooks [Перейти](#react-hooks) | link | React Router [Перейти](#react-router) | link |
 |:-:|:-----------------:|:------------------:|:-------------------:|:------------------:|
 |1| **useState** | [🔽](#usestate) | ----------**BrowserRouter**---------- | [🔽](#1-browserrouter) |
 |2| **useEffect** | [🔽](#useeffect) | --------------**Routes**-------------- | [🔽](#routes) |
@@ -23,20 +20,9 @@
 
 - **React memo** [Перейти](#react-memo)
 
-- **React Router** [Перейти](#react-router) | [**официальная документация**](https://reactrouter.com/en/main/start/tutorial)
-
-| # | React Router | link |
-| - | ------ | ------ |
-|1| **BrowserRouter** | [🔽](#1-browserrouter) |
-|2| **Routes** | [🔽](#routes) |
-|3| **Route** | [🔽](#route) |
-|4| **Outlet** | [🔽](#outlet) |
-|5| **Link / NavLink** | [🔽](#link-/-navLink) |
-|6| **Navigate / useNavigate / Redirect** | [🔽](#navigate-/-useNavigate-/-redirect) |
-|7| **useParams** | [🔽](#useparams) |
-
 - **Event handlers** [Перейти](#event-handlers)
 
+---
 Документация по React
 - **React.dev** | [Перейти](https://react.dev/)
 - **React Router** | [Перейти](https://reactrouter.com/en/main)
