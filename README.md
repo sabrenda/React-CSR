@@ -1,5 +1,6 @@
 # [3-Phase-CSR]
 
+<div id="gear-menu"></div>
 ## ⚙️ Menu
 
 - **Set up** [Перейти](#react-hooks)
@@ -63,7 +64,7 @@
 -  `const [state, setState] = useState(initialState);` | state — текущее значение состояния
 -  `setState((prev) => [...prev, 'hello']);` | setState — функция для обновления состояния. При вызове этой функции с новым значением состояние будет обновлено, а компонент перерендерится.
 
-**[Пример кода](#useState)** | [Menu](#%E2%9A%99%EF%B8%8F-menu)
+**[Пример кода](#useState)** | [Menu](#gear-menu)
 
 ---
 
