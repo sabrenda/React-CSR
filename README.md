@@ -3,23 +3,20 @@
 <div id="gear-menu"></div>
 
 ## ⚙️ Menu
-Документация по React
-- **React.dev** | [Перейти](https://react.dev/)
-- **React Router** | [Перейти](https://reactrouter.com/en/main)
-- **w3schools** [Перейти](https://www.w3schools.com/react/default.asp)
 
 - **Set up** [Перейти](#react-hooks)
 - **React Hooks** [Перейти](#react-hooks)
 
 
-| # | React Hooks | link |
-| - | ------ | ------ |
-|1| **useState** | [🔽](#usestate) |
-|2| **useEffect** | [🔽](#useeffect) |
-|3| **useCallback** | [🔽](#usecallback) |
-|4| **useMemo** | [🔽](#usememo) |
-|5| **useContext** | [🔽](#usecontext) |
-|6| **useReducer** | [🔽](#usereducer) |
+| # | React Hooks | link | React Router | link |
+| - | ------ | ------ | ------ | ------ |
+|1| **useState** | [🔽](#usestate) | **BrowserRouter** | [🔽](#1-browserrouter) |
+|2| **useEffect** | [🔽](#useeffect) | **Routes** | [🔽](#routes) |
+|3| **useCallback** | [🔽](#usecallback) | **Route** | [🔽](#route) |
+|4| **useMemo** | [🔽](#usememo) | **Outlet** | [🔽](#outlet) |
+|5| **useContext** | [🔽](#usecontext) | **Link / NavLink** | [🔽](#link-/-navLink) |
+|6| **useReducer** | [🔽](#usereducer) | **Navigate / useNavigate / Redirect** | [🔽](#navigate-/-useNavigate-/-redirect) |
+|7| - | - | **useParams** | [🔽](#useparams) |
 
 - **React memo** [Перейти](#react-memo)
 
@@ -36,6 +33,12 @@
 |7| **useParams** | [🔽](#useparams) |
 
 - **Event handlers** [Перейти](#event-handlers)
+
+Документация по React
+- **React.dev** | [Перейти](https://react.dev/)
+- **React Router** | [Перейти](https://reactrouter.com/en/main)
+- **w3schools** [Перейти](https://www.w3schools.com/react/default.asp)
+---
 
 - **Доп библиотеки**
 1 Axios
