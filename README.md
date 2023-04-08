@@ -10,12 +10,12 @@
 
 | # | React Hooks | link |
 | - | ------ | ------ |
-|1| **useState** | -[🔽](#usestate)- |
-|2| **useEffect** | -[🔽](#useeffect)- |
-|3| **useCallback** | -[🔽](#usecallback)- |
-|4| **useMemo** | -[🔽](#usememo)- |
-|5| **useContext** | -[🔽](#usecontext)- |
-|6| **useReducer** | -[🔽](#usereducer)- |
+|1| **useState** | [🔽](#usestate) |
+|2| **useEffect** | [🔽](#useeffect) |
+|3| **useCallback** | [🔽](#usecallback) |
+|4| **useMemo** | [🔽](#usememo) |
+|5| **useContext** | [🔽](#usecontext) |
+|6| **useReducer** | [🔽](#usereducer) |
 
 - **React memo** [Перейти](#react-memo)
 
