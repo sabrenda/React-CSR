@@ -6,6 +6,7 @@
 <div id="gear-menu"></div>
 
 ## ⚙️ Menu
+<div align="center"><h2>⚙️ Menu</h2></div>
   
 | - | --------**React Hooks**-------- | [#](#react-hooks) | - | -------**React Router Dom**-------- | [#](#react-router) |
 |:-:|:-----------------:|:------------------:| :-: |:-------------------:|:------------------:|
