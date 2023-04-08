@@ -42,13 +42,17 @@
 1. React Developer Tools | [link](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=ru)
 2. Redux DevTools | [link](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
 
+---
+
 ## 🧑‍🎨 Style 
 - **MUI** | [перейти](https://mui.com/)
 - **Tailwindcss** | [перейти](https://tailwindcss.com/docs/installation)
 - **React-Bootstrap** | [перейти](https://react-bootstrap.github.io/)
 - **Reactstrap** | [перейти](https://reactstrap.github.io/?path=/story/home-installation--page)
 
-📜 Документация по React
+---
+
+## 📜 Документация по React
 - **React.dev** | [link](https://react.dev/)
 - **React Router** | [link](https://reactrouter.com/en/main)
 - **w3schools** [link](https://www.w3schools.com/react/default.asp)
