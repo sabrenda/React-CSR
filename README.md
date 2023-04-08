@@ -6,7 +6,7 @@
 
 - **Set up** [Перейти](#react-hooks)
   
-| # | React Hooks [Перейти](#react-hooks) | link | React Router [Перейти](#react-router) | link |
+| # | React Hooks [#](#react-hooks) | link | React Router [#](#react-router) | link |
 |:-:|:-----------------:|:------------------:|:-------------------:|:------------------:|
 |1| **useState** | [#](#usestate) | ----------**BrowserRouter**---------- | [#](#1-browserrouter) |
 |2| **useEffect** | [#](#useeffect) | --------------**Routes**-------------- | [#](#2-routes) |
