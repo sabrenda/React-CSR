@@ -3,8 +3,6 @@
 <div id="gear-menu"></div>
 
 ## ⚙️ Menu
-
-- **INIT** [🔽](#init)
   
 | # | React Hooks/Elements [#](#react-hooks) | link | React Router [#](#react-router) | link |
 |:-:|:-----------------:|:------------------:|:-------------------:|:------------------:|
@@ -16,10 +14,11 @@
 |6| **useReducer** | [#](#usereducer) | -**Navigate / useNavigate / Redirect**- | [#](#6-navigate-redirect-usenavigate) |
 |7| **React memo** | [#](#react-memo) | ------------**useParams**------------ | [#](#7-useparams) |
 
+- **INIT** [🔽](#init)
 - **Event handlers** [🔽](#event-handlers)
 - **Примеры кода** [🔽](#примеры-кода)
 
-- **Доп библиотеки** [в процессе...]
+**Доп библиотеки** [в процессе...]
 1. Axios
 2. Redux
 3. Redux/toolkit
