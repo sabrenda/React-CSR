@@ -14,7 +14,7 @@
 
 - **React memo** [Перейти](#react-memo)
 
-- **React Router** [Перейти](#react-router-|-[**официальная документация**](https://reactrouter.com/en/main/start/tutorial))
+- **React Router** [Перейти](#react-router) | [**официальная документация**](https://reactrouter.com/en/main/start/tutorial)
 
 | # | React Router | link |
 | - | ------ | ------ |
@@ -276,7 +276,8 @@ export default React.memo(PostListItem);
 ```
 
 
-### [React Router] | [**официальная документация**](https://reactrouter.com/en/main/start/tutorial)
+### [React Router]
+[**официальная документация**](https://reactrouter.com/en/main/start/tutorial)
 
 **React-Router** - это библиотека маршрутизации, обеспечивает переход между различными компонентами React, когда пользователь взаимодействует с интерфейсом. react-router поддерживает маршрутизацию как на стороне клиента (client-side), так и на стороне сервера (server-side). **React-Router** предоставляет ряд компонентов и хуков, которые могут быть использованы для создания маршрутизации.
 
