@@ -8,10 +8,9 @@
 - **React Hooks** [Перейти](#react-hooks)
 
 
-<div align="center">
   
 | # | React Hooks | link | React Router | link |
-| - | ------ | ------ | ------ | ------ |
+| :-: | :------: | :------: | :------: | :------: |
 |1| **useState** | [🔽](#usestate) | **BrowserRouter** | [🔽](#1-browserrouter) |
 |2| **useEffect** | [🔽](#useeffect) | **Routes** | [🔽](#routes) |
 |3| **useCallback** | [🔽](#usecallback) | **Route** | [🔽](#route) |
@@ -20,7 +19,7 @@
 |6| **useReducer** | [🔽](#usereducer) | **Navigate / useNavigate / Redirect** | [🔽](#navigate-/-useNavigate-/-redirect) |
 |7| - | - | **useParams** | [🔽](#useparams) |
 
-</div>
+
 
 - **React memo** [Перейти](#react-memo)
 
