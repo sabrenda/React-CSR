@@ -490,7 +490,7 @@ function UseMemoExample() {
   const fiboResult = useMemo(() => fibo(fiboInput), [fiboInput]);
 
   return (
-    `<div>`
+    <div>
 
       <p>{boolean ? 'true' : 'false'}</p>
       <button type="button" onClick={() => { setBoolean(!boolean); }}>boo</button>
@@ -500,7 +500,7 @@ function UseMemoExample() {
       {fiboResult}
       <button type="button" onClick={() => { setFiboInput(fiboInput + 1); }}>+</button>
       <button type="button" onClick={() => { setFiboInput((prevState) => prevState - 1); }}>-</button>
-    `</div>`
+    </div>
   );
 }
 
@@ -635,7 +635,8 @@ const RedirectToHomeButton = () => {
 ---
 
 #### useParams
-Создайте маршрут с динамическим параметром (например, :id) в вашем компоненте App:
+  
+*Создайте маршрут с динамическим параметром (например, :id) в вашем компоненте App:*
 ```js
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import MyComponent from './MyComponent';
@@ -652,7 +653,8 @@ const App = () => {
 
 export default App;
 ```
-В компоненте MyComponent, используйте хук useParams для доступа к значению параметра id:
+  
+*В компоненте MyComponent, используйте хук useParams для доступа к значению параметра id:*
 
 ```js
 import React from 'react';
@@ -667,4 +669,5 @@ const MyComponent = () => {
 export default MyComponent;
 
 ```
-Теперь, когда пользователь переходит по URL-адресу, например, /example/42, компонент MyComponent будет отображать текст "Значение параметра id: 42". Значение параметра id будет доступно для использования внутри компонента через хук useParams.
+  
+*Теперь, когда пользователь переходит по URL-адресу, например, `/example/42`, компонент MyComponent будет отображать текст "Значение параметра id: 42". Значение параметра id будет доступно для использования внутри компонента через хук useParams.*
