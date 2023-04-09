@@ -553,6 +553,8 @@ export default React.memo(PostListItem);
 ---
   
 ### useState-example
+
+[back](#usestate)
  
 ```js
 import React, { useState } from 'react';
@@ -575,6 +577,8 @@ function Counter() {
 ---
   
 ### useEffect-example
+ 
+[back](#useeffect)
   
 ```js
 import React, { useState, useEffect } from 'react';
@@ -599,6 +603,8 @@ import React, { useState, useEffect } from 'react';
   
 ### useCallback-example
   
+[back](#usecallback)
+ 
 ```js
 import React, { useState, useCallback } from 'react';
 import PostListItem from '../PostListItem/PostListItem';
@@ -642,7 +648,9 @@ export default PostList;
 ---
   
 ### useMemo-example
-  
+
+ [back](#usememo)
+
 ```js
 import React, { useState, useMemo } from 'react';
 
@@ -681,7 +689,9 @@ export default UseMemoExample;
 ---
   
 ### Route-example
-  
+
+ [back](#2---router)
+ 
 ```js
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import Home from './components/Home';
@@ -720,7 +730,9 @@ export default App;
 ---
   
 ### Outlet-example
-  
+
+ [back](#4---outlet)
+ 
 ```js
 const ServicesLayout = () => {
   return (
@@ -735,6 +747,8 @@ const ServicesLayout = () => {
 ---
   
 ### Link-example
+ 
+[back](#5---link-navLink)
   
 ```js
 import { Link } from 'react-router-dom';
@@ -753,6 +767,8 @@ const Navigation = () => {
   
 ### NavLink-example
   
+[back](#5---link-navLink)
+ 
 ```js
 import { NavLink } from 'react-router-dom';
 
@@ -777,6 +793,8 @@ const Navigation = () => {
 ---
   
 #### Navigate-example
+ 
+[back](#6---navigate-redirect-usenavigate)
   
 ```js
 import { Navigate } from 'react-router-dom';
@@ -787,6 +805,9 @@ const RedirectToHome = () => {
 ```
 ---
 #### Redirect-example
+
+[back](#6---navigate-redirect-usenavigate)
+ 
 ```js
 import { Route, Routes, Redirect } from 'react-router-dom';
 import Dashboard from './components/Dashboard';
@@ -806,6 +827,8 @@ const AppRoutes = () => {
 ---
   
 #### useNavigate-example
+
+[back](#6---navigate-redirect-usenavigate)
   
 ```js
 import { useNavigate } from 'react-router-dom';
@@ -823,7 +846,9 @@ const RedirectToHomeButton = () => {
 ---
 
 #### useParams-example
-  
+
+[back](#useparams)
+ 
 *Создайте маршрут с динамическим параметром (например, :id) в вашем компоненте App:*
 ```js
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
