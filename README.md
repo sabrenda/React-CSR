@@ -25,6 +25,7 @@
 📝 **Примеры кода** [🔽](#примеры-кода)
 
 </div>
+
 ---
 
 **⭐️ Доп** 🔽 [в процессе...]
@@ -39,7 +40,7 @@
 ---
 ## INIT
 - `npx create-react-app client` | [Create React App: Docs](https://create-react-app.dev/)
-- `npx create-react-app client --template typescript` | [on TypeScript: Docs](https://create-react-app.dev/)
+- `npx create-react-app client --template typescript` | [on TypeScript: Docs](https://create-react-app.dev/docs/adding-typescript/)
 - `npm i react-router-dom` | [React Router: Docs](https://reactrouter.com/en/main)
 - `npm i redux react-redux @redux-devtools/extension @reduxjs/toolkit`
 - [redux: Docs](https://redux.js.org/) | [redux-toolkit: Docs](https://redux-toolkit.js.org/)
