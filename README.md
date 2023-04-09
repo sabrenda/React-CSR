@@ -72,7 +72,7 @@
 
 <div align="center"><h1>⚡︎React Hooks</h1></div>
 
-### [⭐️ useState]
+### ⭐️ useState
 
 [**официальная документация**](https://react.dev/reference/react/useState)
 
