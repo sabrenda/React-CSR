@@ -352,11 +352,11 @@ export default React.memo(PostListItem);
 ---
 <div id="react-router"></div>
 
-[Menu](#gear-menu)
-
 <div align="center"><h1>⚡︎React Router</h1></div>
 
 [**официальная документация**](https://reactrouter.com/en/main/start/tutorial)
+
+[Menu](#gear-menu)
 
 **React-Router** - это библиотека маршрутизации, обеспечивает переход между различными компонентами React, когда пользователь взаимодействует с интерфейсом. react-router поддерживает маршрутизацию как на стороне клиента (client-side), так и на стороне сервера (server-side). **React-Router** предоставляет ряд компонентов и хуков, которые могут быть использованы для создания маршрутизации.
 
