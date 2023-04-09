@@ -42,8 +42,7 @@
 - `npx create-react-app client` | [Create React App: Docs](https://create-react-app.dev/)
 - `npx create-react-app client --template typescript` | [on TypeScript: Docs](https://create-react-app.dev/docs/adding-typescript/)
 - `npm i react-router-dom` | [React Router: Docs](https://reactrouter.com/en/main)
-- `npm i redux react-redux @redux-devtools/extension @reduxjs/toolkit`
-- [redux: Docs](https://redux.js.org/) | [redux-toolkit: Docs](https://redux-toolkit.js.org/)
+- `npm i @reduxjs/toolkit react-redux @redux-devtools/extension` | [redux-toolkit: Docs](https://redux-toolkit.js.org/)
 
 Расширения в браузер
 
@@ -64,6 +63,7 @@
 - **React.dev** | [link](https://react.dev/)
 - **React Router** | [link](https://reactrouter.com/en/main)
 - **w3schools** [link](https://www.w3schools.com/react/default.asp)
+- **redux-toolkit** [link](https://redux-toolkit.js.org/)
 
 ---
 ---
