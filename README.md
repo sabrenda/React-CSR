@@ -8,7 +8,7 @@
 ## ⚙️ Menu
 <div align="center"><h2>⚙️ Menu</h2></div>
 
-<center>
+<div align="center">
  
 | - | --------**React Hooks**-------- | [#](#react-hooks) | - | -------**React Router Dom**-------- | [#](#react-router) |
 |:-:|:-----------------:|:------------------:| :-: |:-------------------:|:------------------:|
@@ -20,7 +20,7 @@
 |6️| [useReducer] | [#](#usereducer) |6| [Navigate / useNavigate / Redirect] | [#](#6---navigate-redirect-usenavigate) |
 |7️| [React memo] | [#](#react-memo) |7| [useParams] | [#](#7---useparams) |
   
-</center>
+</div>
 
 🏁 **INIT** [🔽](#init)
 
