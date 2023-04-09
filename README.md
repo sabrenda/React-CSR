@@ -26,11 +26,11 @@
 
 ---
 **⭐️ Доп** 🔽 [в процессе...]
-1. Axios
-2. Redux
-3. Redux/toolkit
-4. Redux/Saga
-5. Prisma ORM
+1. Redux/toolkit
+2. Redux/Saga
+3. Axios
+4. Prisma ORM
+5. Redis
 6. Vitejs
 
 ---
