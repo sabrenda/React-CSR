@@ -6,7 +6,7 @@
 
 <div align="center">
  
-  | ® | [**React**](#react-hooks) | ®️ | [**React Router**](#react-router) |
+  | 📘 | [**React**](#react-hooks) | 📗 | [**React Router**](#react-router) |
 |:-:| :------------------:| :-: |:------------------:|
 |1️⃣| [useState](#usestate) |1️⃣| [BrowserRouter](#1---browserrouter) |
 |2️⃣| [useEffect](#useeffect) |2️⃣| [Routes](#2---routes) |
