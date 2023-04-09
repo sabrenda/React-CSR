@@ -6,15 +6,15 @@
 
 <div align="center">
  
-  |  | [**React**](#react-hooks) |  | [**React Router**](#react-router) |
+  | ®️ | [**React**](#react-hooks) | ®️ | [**React Router**](#react-router) |
 |:-:| :------------------:| :-: |:------------------:|
-|1| [useState](#usestate) |1| [BrowserRouter](#1---browserrouter) |
-|2| [useEffect](#useeffect) |2| [Routes](#2---routes) |
-|3️| [useCallback](#usecallback) |3| [Route](#3---route) |
-|4️| [useMemo](#usememo) |4| [Outlet](#4---outlet) |
-|5️| [useContext](#usecontext) |5| [Link / NavLink](#5---link-navLink) |
-|6️| [useReducer](#usereducer) |6| [Navigate / useNavigate / Redirect](#6---navigate-redirect-usenavigate) |
-|7️| [React memo](#react-memo) |7| [useParams](#7---useparams) |
+|1️⃣| [useState](#usestate) |1️⃣| [BrowserRouter](#1---browserrouter) |
+|2️⃣| [useEffect](#useeffect) |2️⃣| [Routes](#2---routes) |
+|3️⃣| [useCallback](#usecallback) |3️⃣| [Route](#3---route) |
+|4️⃣| [useMemo](#usememo) |4️⃣| [Outlet](#4---outlet) |
+|5️⃣| [useContext](#usecontext) |5️⃣| [Link / NavLink](#5---link-navLink) |
+|6️⃣| [useReducer](#usereducer) |6️⃣| [Navigate / useNavigate / Redirect](#6---navigate-redirect-usenavigate) |
+|7️⃣| [React memo](#react-memo) |7️⃣| [useParams](#7---useparams) |
  
 </div>
 
