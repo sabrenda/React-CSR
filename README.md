@@ -8,7 +8,7 @@
  
   | [📘](#react-hooks) | [**React**](#react-hooks) | [📗](#react-router) | [**React Router**](#react-router) |
 |:-:| :------------------:| :-: |:------------------:|
-|[1️⃣](#⭐️-usestate)| [useState](#⭐️-usestate) |[1️⃣](#1---browserrouter)| [BrowserRouter](#1---browserrouter) |
+|[1️⃣](#usestate)| [useState](#usestate) |[1️⃣](#1---browserrouter)| [BrowserRouter](#1---browserrouter) |
 |[2️⃣](#useeffect)| [useEffect](#useeffect) |[2️⃣](#2---routes)| [Routes](#2---routes) |
 |[3️⃣](#usecallback)| [useCallback](#usecallback) |[3️⃣](#3---route)| [Route](#3---route) |
 |[4️⃣](#usememo)| [useMemo](#usememo) |[4️⃣](#4---outlet)| [Outlet](#4---outlet) |
@@ -72,6 +72,8 @@
 
 <div align="center"><h1>⚡︎React Hooks</h1></div>
 
+<div id="usestate"></div>
+
 ### ⭐️ useState
 
 [**официальная документация**](https://react.dev/reference/react/useState)
@@ -88,7 +90,7 @@
 
 ---
 
-### [useEffect]
+### ⭐️ useEffect 
 
 [**официальная документация**](https://react.dev/reference/react/useEffect)
 
@@ -117,7 +119,7 @@ useEffect(() => {  // Выполнение побочного эффекта
 
 ---
 
-### [useCallback]
+### ⭐️ useCallback
 
 [**официальная документация**](https://react.dev/reference/react/useCallback)
 
@@ -154,7 +156,7 @@ const ExampleComponent = () => {
 
 ---
 
-### [useMemo]
+### ⭐️ useMemo
 
 [**официальная документация**](https://react.dev/reference/react/useMemo)
 
@@ -198,7 +200,7 @@ const ExampleComponent = () => {
 
 ---
 
-### [useContext]
+### ⭐️ useContext
 
 [**официальная документация**](https://react.dev/reference/react/useContext)
 
@@ -256,7 +258,7 @@ export default UserComponent;
 
 ---
 
-### [useReducer]
+### ⭐️ useReducer
 
 [**официальная документация**](https://react.dev/reference/react/useReducer)
 
@@ -315,7 +317,7 @@ export default Counter;
 
 ---
 
-### [React memo]
+### ⭐️ React memo
 
 [**официальная документация**](https://react.dev/reference/react/memo)
 
