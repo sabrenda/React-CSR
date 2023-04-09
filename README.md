@@ -1,4 +1,4 @@
-<div align="center"><h1>⚡︎React 3-Phase CSR⚡︎</h1></div>
+<div align="center"><h1>⚡︎React | 3-Phase | CSR⚡︎</h1></div>
 
 <div id="gear-menu"></div>
 
@@ -65,7 +65,9 @@
 ---
 [Menu](#gear-menu)
 
-# React Hooks
+<div align="center"><h1>⚡︎React Hooks</h1></div>
+
+<div id="react-hoooks"></div>
 
 ### [useState]
 [**официальная документация**](https://react.dev/reference/react/useState)
