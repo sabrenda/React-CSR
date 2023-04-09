@@ -16,7 +16,7 @@
 |6️⃣| [useReducer](#usereducer) |6️⃣| [Navigate / useNavigate / Redirect](#6---navigate-redirect-usenavigate) |
 |7️⃣| [React memo](#react-memo) |7️⃣| [useParams](#7---useparams) |
  
-</div>
+
 
 🏁 **INIT** [🔽](#init)
 
@@ -32,7 +32,8 @@
 4. Prisma ORM
 5. Redis
 6. Vitejs
-
+ 
+</div>
 ---
 ---
 ## INIT
