@@ -59,7 +59,7 @@
 
 ---
 
-## 📜 Документация по React
+## 📜 Документация
 - **React.dev** | [link](https://react.dev/)
 - **React Router** | [link](https://reactrouter.com/en/main)
 - **w3schools** [link](https://www.w3schools.com/react/default.asp)
