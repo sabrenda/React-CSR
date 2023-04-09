@@ -847,7 +847,7 @@ const RedirectToHomeButton = () => {
 
 #### useParams-example
 
-[back](#useparams)
+[back](#7---useparams)
  
 *Создайте маршрут с динамическим параметром (например, :id) в вашем компоненте App:*
 ```js
