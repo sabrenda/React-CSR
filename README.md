@@ -53,10 +53,10 @@
 ---
 
 ## 🧑‍🎨 Style 
-- **MUI** | [перейти](https://mui.com/)
-- **Tailwindcss** | [перейти](https://tailwindcss.com/docs/installation)
-- **React-Bootstrap** | [перейти](https://react-bootstrap.github.io/)
-- **Reactstrap** | [перейти](https://reactstrap.github.io/?path=/story/home-installation--page)
+- **MUI** | [link](https://mui.com/)
+- **Tailwindcss** | [link](https://tailwindcss.com/docs/installation)
+- **React-Bootstrap** | [link](https://react-bootstrap.github.io/)
+- **Reactstrap** | [link](https://reactstrap.github.io/?path=/story/home-installation--page)
 
 ---
 
