@@ -335,10 +335,11 @@ export default React.memo(PostListItem);
 
 ---
 ---
-
-### [React Router]
+<div id="react-router"></div>
 
 [Menu](#gear-menu)
+
+<div align="center"><h1>⚡︎React Router</h1></div>
 
 [**официальная документация**](https://reactrouter.com/en/main/start/tutorial)
 
