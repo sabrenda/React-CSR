@@ -70,7 +70,7 @@
 
 <div id="react-hooks"></div>
 
-<div align="center"><h1>⚡︎React Hooks</h1></div>
+<div align="center"><h1>⚡📘React Hooks</h1></div>
 
 <div id="usestate"></div>
 
@@ -370,7 +370,7 @@ export default React.memo(PostListItem);
 ---
 <div id="react-router"></div>
 
-<div align="center"><h1>⚡︎React Router</h1></div>
+<div align="center"><h1>📗React Router</h1></div>
 
 [**официальная документация**](https://reactrouter.com/en/main/start/tutorial)
 
