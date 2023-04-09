@@ -90,6 +90,8 @@
 
 ---
 
+<div id="useeffect"></div>
+
 ### ⭐️ useEffect 
 
 [**официальная документация**](https://react.dev/reference/react/useEffect)
@@ -119,6 +121,7 @@ useEffect(() => {  // Выполнение побочного эффекта
 
 ---
 
+<div id="usecallback"></div>
 ### ⭐️ useCallback
 
 [**официальная документация**](https://react.dev/reference/react/useCallback)
@@ -155,6 +158,8 @@ const ExampleComponent = () => {
 **[Пример кода](#usecallback-example)**
 
 ---
+
+<div id="usememo"></div>
 
 ### ⭐️ useMemo
 
@@ -199,6 +204,8 @@ const ExampleComponent = () => {
 **[Пример кода](#usememo-example)** | [Menu](#gear-menu)
 
 ---
+
+<div id="usecontext"></div>
 
 ### ⭐️ useContext
 
@@ -258,6 +265,8 @@ export default UserComponent;
 
 ---
 
+<div id="usereducer"></div>
+
 ### ⭐️ useReducer
 
 [**официальная документация**](https://react.dev/reference/react/useReducer)
@@ -316,6 +325,8 @@ export default Counter;
 Кнопки вызывают функцию dispatch с соответствующими действиями. Редуктор обрабатывает эти действия и возвращает новое состояние. Обратите внимание, что состояние обновляется непосредственно в редукторе, и мы не вызываем setState или другой
 
 ---
+
+<div id="react-memo"></div>
 
 ### ⭐️ React memo
 
