@@ -63,9 +63,10 @@
 
 ---
 ---
-[Menu](#gear-menu)
 
 <div id="react-hooks"></div>
+
+[Menu](#gear-menu)
 
 <div align="center"><h1>⚡︎React Hooks</h1></div>
 
