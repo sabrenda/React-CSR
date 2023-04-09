@@ -8,13 +8,13 @@
  
   | [📘](#react-hooks) | [**React**](#react-hooks) | [📗](#react-router) | [**React Router**](#react-router) |
 |:-:| :------------------:| :-: |:------------------:|
-|[1️⃣](#usestate)| [useState](#usestate) |1️⃣| [BrowserRouter](#1---browserrouter) |
-|[2️⃣](#useeffect)| [useEffect](#useeffect) |2️⃣| [Routes](#2---routes) |
-|[3️⃣](#usecallback)| [useCallback](#usecallback) |3️⃣| [Route](#3---route) |
-|[4️⃣](#usememo)| [useMemo](#usememo) |4️⃣| [Outlet](#4---outlet) |
-|[5️⃣](#usecontext)| [useContext](#usecontext) |5️⃣| [Link / NavLink](#5---link-navLink) |
-|[6️⃣](#usereducer)| [useReducer](#usereducer) |6️⃣| [Navigate / useNavigate / Redirect](#6---navigate-redirect-usenavigate) |
-|[7️⃣](#react-memo)| [React memo](#react-memo) |7️⃣| [useParams](#7---useparams) |
+|[1️⃣](#usestate)| [useState](#usestate) |[1️⃣](#1---browserrouter)| [BrowserRouter](#1---browserrouter) |
+|[2️⃣](#useeffect)| [useEffect](#useeffect) |[2️⃣](#2---routes)| [Routes](#2---routes) |
+|[3️⃣](#usecallback)| [useCallback](#usecallback) |[3️⃣](#3---route)| [Route](#3---route) |
+|[4️⃣](#usememo)| [useMemo](#usememo) |[4️⃣](#4---outlet)| [Outlet](#4---outlet) |
+|[5️⃣](#usecontext)| [useContext](#usecontext) |[5️⃣](#5---link-navLink)| [Link / NavLink](#5---link-navLink) |
+|[6️⃣](#usereducer)| [useReducer](#usereducer) |[6️⃣](#6---navigate-redirect-usenavigate)| [Navigate / useNavigate / Redirect](#6---navigate-redirect-usenavigate) |
+|[7️⃣](#react-memo)| [React memo](#react-memo) |[7️⃣](#7---useparams)| [useParams](#7---useparams) |
  
 
 
