@@ -6,7 +6,7 @@
 
 <div align="center">
  
-| - | --------**React Hooks**-------- | [#](#react-hooks) | - | -------**React Router Dom**-------- | [#](#react-router) |
+| - | --------<h4>React Hooks</h4>-------- | [#](#react-hooks) | - | -------<h4>React Router Dom</h4>-------- | [#](#react-router) |
 |:-:|:-----------------:|:------------------:| :-: |:-------------------:|:------------------:|
 |1️| [useState] | [#](#usestate) |1| [BrowserRouter] | [#](#1---browserrouter) |
 |2| [useEffect] | [#](#useeffect) |2| [Routes] | [#](#2---routes) |
