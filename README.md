@@ -364,10 +364,9 @@ function PostListItem({ title, postId, userId, handleRemove }) {
 export default React.memo(PostListItem);
 ```
 
-[Menu](#gear-menu)
+---
+---
 
----
----
 <div id="react-router"></div>
 
 <div align="center"><h1>📗React Router</h1></div>
