@@ -20,6 +20,8 @@
 
 🏁 **INIT** [🔽](#init)
 
+💙 **React** [🔽](#react)
+
 ⌨️ **Event handlers** [🔽](#event-handlers)
 
 📝 **Примеры кода** [🔽](#примеры-кода)
@@ -67,6 +69,8 @@
 
 ---
 ---
+
+<div id="react"></div>
 
 <div align="center"><h1><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="32" height="32"> React</h1></div>
 
