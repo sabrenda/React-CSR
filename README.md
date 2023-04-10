@@ -86,7 +86,7 @@ React используется в сочетании с другими библ�
 
 <div id="react-hooks"></div>
 
-<div align="center"><h1>📘React Hooks</h1></div>
+<div align="center"><h1><img src="https://raw.githubusercontent.com/alDuncanson/react-hooks-snippets/master/icon.png" alt="React" width="32" height="32">📘React Hooks</h1></div>
 
 <div id="usestate"></div>
 
