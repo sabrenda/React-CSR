@@ -29,7 +29,7 @@
 ---
 
 **👁️‍🗨️ Доп** 🔽 [в процессе...]
-- [🔵Вспоминаем SQL/Sequelize](SQLSequlize.md)
+- [🔵 Вспоминаем SQL/Sequelize](SQLSequlize.md)
 1. Redux/toolkit
 2. Redux/Saga
 3. Axios
