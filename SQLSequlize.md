@@ -1,6 +1,6 @@
 # SQL | Sequelize
 
-[⚙️Menu](README.md)
+[⚙️ Menu](README.md)
 
 #### Полезные ссылки
 | [sequelize.org](https://sequelize.org/docs/v6/core-concepts/assocs/) |
