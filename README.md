@@ -15,8 +15,6 @@
 |[⭐️](#usecontext)| [useContext](#usecontext) |[⭐️](#5---link-navLink)| [Link / NavLink](#5---link-navLink) |
 |[⭐️](#usereducer)| [useReducer](#usereducer) |[⭐️](#6---navigate-redirect-usenavigate)| [Navigate / useNavigate / Redirect](#6---navigate-redirect-usenavigate) |
 |[⭐️](#react-memo)| [React memo](#react-memo) |[⭐️](#7---useparams)| [useParams](#7---useparams) |
- 
-
 
 🏁 **INIT** [🔽](#init)
 
@@ -31,6 +29,7 @@
 ---
 
 **👁️‍🗨️ Доп** 🔽 [в процессе...]
+[Вспоминаем SQL/Sequelize](SQLSequlize.md)
 1. Redux/toolkit
 2. Redux/Saga
 3. Axios
