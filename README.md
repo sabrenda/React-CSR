@@ -6,7 +6,7 @@
 
 <div align="center">
  
-| [📘 **React Hooks**](#react-hooks) | [📗 **React Router**](#react-router) | 👁️‍🗨️Other |
+| <div align="center">[📘 **React Hooks**](#react-hooks)</div> |<div align="center"> [📗 **React Router**](#react-router)</div> | <div align="center">👁️‍🗨️Other </div>|
 |:-----------------------------------|:-------------------------------------| :------|
 |[⭐️ useState](#usestate) |[⭐️ BrowserRouter](#1---browserrouter) | [🔵 Вспоминаем SQL/Sequelize](SQLSequlize.md)|
 | [⭐️ useEffect](#useeffect) | [⭐️ Routes](#2---routes) |
