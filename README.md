@@ -6,15 +6,15 @@
 
 <div align="center">
  
-  | [📘](#react-hooks) | [**React Hooks**](#react-hooks) | [📗](#react-router) | [**React Router**](#react-router) | 👁️‍🗨️Other |
-|:-:| :------------------:| :-: |:------------------:| :--:|
-|[⭐️](#usestate)| [useState](#usestate) |[⭐️](#1---browserrouter)| [BrowserRouter](#1---browserrouter) | [🔵 Вспоминаем SQL/Sequelize](SQLSequlize.md)|
-|[⭐️](#useeffect)| [useEffect](#useeffect) |[⭐️](#2---routes)| [Routes](#2---routes) |
-|[⭐️](#usecallback)| [useCallback](#usecallback) |[⭐️](#3---route)| [Route](#3---route) |
-|[⭐️](#usememo)| [useMemo](#usememo) |[⭐️](#4---outlet)| [Outlet](#4---outlet) |
-|[⭐️](#usecontext)| [useContext](#usecontext) |[⭐️](#5---link-navLink)| [Link / NavLink](#5---link-navLink) |
-|[⭐️](#usereducer)| [useReducer](#usereducer) |[⭐️](#6---navigate-redirect-usenavigate)| [Navigate / useNavigate / Redirect](#6---navigate-redirect-usenavigate) |
-|[⭐️](#react-memo)| [React memo](#react-memo) |[⭐️](#7---useparams)| [useParams](#7---useparams) |
+| [📘 **React Hooks**](#react-hooks) | [📗 **React Router**](#react-router) | 👁️‍🗨️Other |
+|:-----------------------------------|:-------------------------------------| :------|
+|[⭐️ useState](#usestate) |[⭐️ BrowserRouter](#1---browserrouter) | [🔵 Вспоминаем SQL/Sequelize](SQLSequlize.md)|
+| [⭐️ useEffect](#useeffect) | [⭐️ Routes](#2---routes) |
+|[⭐️ useCallback](#usecallback) | [⭐️ Route](#3---route) |
+|[⭐️ useMemo](#usememo) | [⭐️ Outlet](#4---outlet) |
+|[⭐️ useContext](#usecontext) |[⭐️ Link / NavLink](#5---link-navLink) |
+|[⭐️ useReducer](#usereducer) |[⭐️ Navigate / useNavigate / Redirect](#6---navigate-redirect-usenavigate) |
+|[⭐️ React memo](#react-memo) | [⭐️ useParams](#7---useparams) |
 
 🏁 **INIT** [🔽](#init)
 
