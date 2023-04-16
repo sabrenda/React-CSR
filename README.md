@@ -2,22 +2,21 @@
 
 <div id="gear-menu"></div>
 
-<div align="center">
  
+  <div align="center"><h2>⚙️ Menu</h2></div>
+
+ <div align="center">
  
-## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="32" height="32"/> [React](#react)
- 
- <h2>⚙️ Menu</h2>
- 
+ | | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="32" height="32"/> [React](#react)| |
+ |:-----------------------------------|:-------------------------------------:| :------|
 | <div align="center">[📘 **React Hooks**](#react-hooks)</div> |<div align="center"> [📗 **React Router**](#react-router)</div> | <div align="center">👁️‍🗨️Other </div>|
-|:-----------------------------------|:-------------------------------------| :------|
-|[⭐️ useState](#usestate) |[⭐️ BrowserRouter](#1---browserrouter) | [🏁 **INIT** ](#init) |
-| [⭐️ useEffect](#useeffect) | [⭐️ Routes](#2---routes) |  [⌨️ **Event handlers**](#event-handlers)  |
-|[⭐️ useCallback](#usecallback) | [⭐️ Route](#3---route) | [📝 **Примеры кода** ](#примеры-кода)  |
-|[⭐️ useMemo](#usememo) | [⭐️ Outlet](#4---outlet) |    |
-|[⭐️ useContext](#usecontext) |[⭐️ Link / NavLink](#5---link-navLink) | |
-|[⭐️ useReducer](#usereducer) |[⭐️ Navigate / useNavigate / Redirect](#6---navigate-redirect-usenavigate) |
-|[⭐️ React memo](#react-memo) | [⭐️ useParams](#7---useparams) | [🔵 Вспоминаем SQL/Sequelize](SQLSequlize.md)|
+|[⭐️ useState](#usestate) |<div align="left">[⭐️ BrowserRouter](#1---browserrouter) </div>| [🏁 **INIT** ](#init) |
+| [⭐️ useEffect](#useeffect) | <div align="left">[⭐️ Routes](#2---routes) </div>|  [⌨️ **Event handlers**](#event-handlers)  |
+|[⭐️ useCallback](#usecallback) | <div align="left">[⭐️ Route](#3---route) </div>| [📝 **Примеры кода** ](#примеры-кода)  |
+|[⭐️ useMemo](#usememo) | <div align="left">[⭐️ Outlet](#4---outlet)</div> |    |
+|[⭐️ useContext](#usecontext) |<div align="left">[⭐️ Link / NavLink](#5---link-navLink) </div>| |
+|[⭐️ useReducer](#usereducer) |<div align="left">[⭐️ Navigate / useNavigate / Redirect](#6---navigate-redirect-usenavigate) </div>|
+|[⭐️ React memo](#react-memo) | <div align="left">[⭐️ useParams](#7---useparams) </div>| [🔵 Вспоминаем SQL/Sequelize](SQLSequlize.md)|
 </div>
 
 ---
