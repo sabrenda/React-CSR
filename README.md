@@ -2,28 +2,22 @@
 
 <div id="gear-menu"></div>
 
-<div align="center"><h2>⚙️ Menu</h2></div>
-
 <div align="center">
+ 
+ 
+## <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="32" height="32"/> [React](#react)
+ 
+ <h2>⚙️ Menu</h2>
  
 | <div align="center">[📘 **React Hooks**](#react-hooks)</div> |<div align="center"> [📗 **React Router**](#react-router)</div> | <div align="center">👁️‍🗨️Other </div>|
 |:-----------------------------------|:-------------------------------------| :------|
-|[⭐️ useState](#usestate) |[⭐️ BrowserRouter](#1---browserrouter) | [🔵 Вспоминаем SQL/Sequelize](SQLSequlize.md)|
-| [⭐️ useEffect](#useeffect) | [⭐️ Routes](#2---routes) |
-|[⭐️ useCallback](#usecallback) | [⭐️ Route](#3---route) |
-|[⭐️ useMemo](#usememo) | [⭐️ Outlet](#4---outlet) |
-|[⭐️ useContext](#usecontext) |[⭐️ Link / NavLink](#5---link-navLink) |
+|[⭐️ useState](#usestate) |[⭐️ BrowserRouter](#1---browserrouter) | [🏁 **INIT** ](#init) |
+| [⭐️ useEffect](#useeffect) | [⭐️ Routes](#2---routes) |  [⌨️ **Event handlers**](#event-handlers)  |
+|[⭐️ useCallback](#usecallback) | [⭐️ Route](#3---route) | [📝 **Примеры кода** ](#примеры-кода)  |
+|[⭐️ useMemo](#usememo) | [⭐️ Outlet](#4---outlet) |    |
+|[⭐️ useContext](#usecontext) |[⭐️ Link / NavLink](#5---link-navLink) | |
 |[⭐️ useReducer](#usereducer) |[⭐️ Navigate / useNavigate / Redirect](#6---navigate-redirect-usenavigate) |
-|[⭐️ React memo](#react-memo) | [⭐️ useParams](#7---useparams) |
-
-🏁 **INIT** [🔽](#init)
-
-💙 **React** [🔽](#react)
-
-⌨️ **Event handlers** [🔽](#event-handlers)
-
-📝 **Примеры кода** [🔽](#примеры-кода)
-
+|[⭐️ React memo](#react-memo) | [⭐️ useParams](#7---useparams) | [🔵 Вспоминаем SQL/Sequelize](SQLSequlize.md)|
 </div>
 
 ---
