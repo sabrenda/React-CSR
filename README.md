@@ -6,9 +6,9 @@
 
 <div align="center">
  
-  | [📘](#react-hooks) | [**React Hooks**](#react-hooks) | [📗](#react-router) | [**React Router**](#react-router) |
-|:-:| :------------------:| :-: |:------------------:|
-|[⭐️](#usestate)| [useState](#usestate) |[⭐️](#1---browserrouter)| [BrowserRouter](#1---browserrouter) |
+  | [📘](#react-hooks) | [**React Hooks**](#react-hooks) | [📗](#react-router) | [**React Router**](#react-router) | 👁️‍🗨️Other |
+|:-:| :------------------:| :-: |:------------------:| :--:|
+|[⭐️](#usestate)| [useState](#usestate) |[⭐️](#1---browserrouter)| [BrowserRouter](#1---browserrouter) | [🔵 Вспоминаем SQL/Sequelize](SQLSequlize.md)|
 |[⭐️](#useeffect)| [useEffect](#useeffect) |[⭐️](#2---routes)| [Routes](#2---routes) |
 |[⭐️](#usecallback)| [useCallback](#usecallback) |[⭐️](#3---route)| [Route](#3---route) |
 |[⭐️](#usememo)| [useMemo](#usememo) |[⭐️](#4---outlet)| [Outlet](#4---outlet) |
@@ -29,7 +29,6 @@
 ---
 
 **👁️‍🗨️ Доп** 🔽 [в процессе...]
-- [🔵 Вспоминаем SQL/Sequelize](SQLSequlize.md)
 1. Redux/toolkit
 2. Redux/Saga
 3. Axios
