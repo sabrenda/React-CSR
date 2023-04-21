@@ -1019,4 +1019,6 @@ export default MyComponent;
 
 ---
   
+  
+##### хватит читать, иди воркать!
 [Menu](#gear-menu)
