@@ -1,4 +1,4 @@
-# Git
+# Git :octocat:
 [⚙️ Menu](README.md)
 
 ### Работа в команде 1.
