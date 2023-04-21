@@ -11,7 +11,7 @@
  |:-----------------------------------|:-------------------------------------:| :------|
 | <div align="center">[📘 **React Hooks**](#react-hooks)</div> |<div align="center"> [📗 **React Router**](#react-router)</div> | <div align="center">👁️‍🗨️Other </div>|
 |[⭐️ useState](#usestate) |<div align="left">[⭐️ BrowserRouter](#1---browserrouter) </div>| [🏁 **INIT** ](#init) |
-| [⭐️ useEffect](#useeffect) | <div align="left">[⭐️ Routes](#2---routes) </div>|  [⌨️ **Event handlers**](#Event.md)  |
+| [⭐️ useEffect](#useeffect) | <div align="left">[⭐️ Routes](#2---routes) </div>|  [⌨️ **Event handlers**](Event.md)  |
 |[⭐️ useCallback](#usecallback) | <div align="left">[⭐️ Route](#3---route) </div>| [📝 **Примеры кода** ](#примеры-кода)  |
 |[⭐️ useMemo](#usememo) | <div align="left">[⭐️ Outlet](#4---outlet)</div> |    |
 |[⭐️ useContext](#usecontext) |<div align="left">[⭐️ Link / NavLink](#5---link-navLink) </div>| |
