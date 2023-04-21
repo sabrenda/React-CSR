@@ -66,8 +66,6 @@ git add .
 git commit -m "Resolved conflicts"
 
 git push origin myBranch
-
-у вас ветки создаются в жире, поэтому новую ветку создавать не надо
 ```
 
 ### Доп
