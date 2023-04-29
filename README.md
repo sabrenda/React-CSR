@@ -16,7 +16,7 @@
 |[⭐️ useMemo](#usememo) | <div align="left">[⭐️ Outlet](#4---outlet)</div> |    |
 |[⭐️ useContext](#usecontext) |<div align="left">[⭐️ Link / NavLink](#5---link-navLink) </div>| |
 |[⭐️ useReducer](#usereducer) |<div align="left">[⭐️ Navigate / useNavigate / Redirect](#6---navigate-redirect-usenavigate) </div>|[:octocat: **Git** ](CheatsheetGit.md)  |
-|[⭐️ React memo](#react-memo) | <div align="left">[⭐️ useParams](#7---useparams) </div>| [🔵 Вспоминаем SQL/Sequelize](SQLSequlize.md)|
+|[⭐️ React memo](#react-memo) | <div align="left">[⭐️ useParams](#7---useparams) </div>| [🔵 SQL/Sequelize](SQLSequlize.md)|
 </div>
 
 ---
