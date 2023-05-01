@@ -1,4 +1,4 @@
-<div align="center"><h1>⚡︎React | 3-Phase | CSR⚡︎</h1></div>
+<div align="center"><h1>⚡︎React | CHEATSHEET | CSR⚡︎</h1></div>
 
 <div id="gear-menu"></div>
 
