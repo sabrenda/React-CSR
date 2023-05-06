@@ -1,4 +1,4 @@
-# SQL | Sequelize
+# PostgreSQL | Sequelize
 
 [⚙️ Menu](README.md)
 
