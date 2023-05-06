@@ -7,14 +7,14 @@
 
  <div align="center">
  
- | | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="32" height="32"/> [React](#react)| |
+ | | <div align="center">[<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" alt="React"/>](#react)</div>  |  |
  |:-----------------------------------|:-------------------------------------:| :------|
-| <div align="center">[📘 **React Hooks**](#react-hooks)</div> |<div align="center"> [📗 **React Router**](#react-router)</div> | <div align="center">👁️‍🗨️Other </div>|
-|[⭐️ useState](#usestate) |<div align="left">[⭐️ BrowserRouter](#1---browserrouter) </div>| [💟 **Redux**](Redux.md)  |
-| [⭐️ useEffect](#useeffect) | <div align="left">[⭐️ Routes](#2---routes) </div>|  [🏁 **INIT** ](#init)   |
-|[⭐️ useCallback](#usecallback) | <div align="left">[⭐️ Route](#3---route) </div>| [⌨️ **Event handlers**](Event.md)   |
-|[⭐️ useMemo](#usememo) | <div align="left">[⭐️ Outlet](#4---outlet)</div> |   [📝 **Примеры кода** ](#примеры-кода) |
-|[⭐️ useContext](#usecontext) |<div align="left">[⭐️ Link / NavLink](#5---link-navLink) </div>| |
+| <div align="center">[<img src="https://img.shields.io/badge/React--Hooks-20232A?style=for-the-badge&logo=react" alt="React"/>](#react-hooks)</div> |<div align="center"> [<img src="https://img.shields.io/badge/React--Router-20232A?style=for-the-badge&logo=reactrouter" alt="React"/>](#react-router)</div> | <div align="center">Other </div>|
+|[⭐️ useState](#usestate) |<div align="left">[⭐️ BrowserRouter](#1---browserrouter) </div>| <div align="center">[<img src="https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux&color=593D88" alt="redux"/>](Redux.md)</div> |
+| [⭐️ useEffect](#useeffect) | <div align="left">[⭐️ Routes](#2---routes) </div>|     |
+|[⭐️ useCallback](#usecallback) | <div align="left">[⭐️ Route](#3---route) </div>| [🏁 **INIT** ](#init)  |
+|[⭐️ useMemo](#usememo) | <div align="left">[⭐️ Outlet](#4---outlet)</div> |   [⌨️ **Event handlers**](Event.md)  |
+|[⭐️ useContext](#usecontext) |<div align="left">[⭐️ Link / NavLink](#5---link-navLink) </div>| [📝 **Примеры кода** ](#примеры-кода) |
 |[⭐️ useReducer](#usereducer) |<div align="left">[⭐️ Navigate / useNavigate / Redirect](#6---navigate-redirect-usenavigate) </div>|[:octocat: **Git** ](CheatsheetGit.md)  |
 |[⭐️ React memo](#react-memo) | <div align="left">[⭐️ useParams](#7---useparams) </div>| [🔵 SQL/Sequelize](SQLSequlize.md)|
 </div>
