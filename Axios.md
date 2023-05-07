@@ -28,6 +28,8 @@
 Если вы работаете в браузере, вы можете добавить ссылку на CDN в ваш HTML файл:
 - `<script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>`
 
+---
+
 ### Как использовать Axios:
 
 1. Импортируйте Axios (если используете Node.js):
@@ -65,3 +67,51 @@ axios.post('https://api.example.com/data', data)
 
 Axios также предоставляет другие возможности, такие как настройка базового URL, использование промежуточного обработчика (interceptors), отмена запросов, установка таймаутов и т. д.
 
+---
+
+### Пример работы в React:
+
+```js
+import React, { useState, useEffect } from 'react';
+import axios from 'axios';
+
+const ExampleComponent = () => {
+  const [data, setData] = useState([]);
+
+  useEffect(() => {
+    const fetchData = async () => {
+      try {
+        const response = await axios.get('https://api.example.com/data');
+        setData(response.data);
+      } catch (error) {
+        console.error('Error:', error);
+      }
+    };
+
+    fetchData();
+  }, []); // Пустой массив зависимостей означает, что запрос будет выполнен только при монтировании компонента
+
+  return (
+    <div>
+      {data.map(item => (
+        <div key={item.id}>
+          {/* Отображение данных */}
+        </div>
+      ))}
+    </div>
+  );
+};
+
+export default ExampleComponent;
+```
+
+В этом примере:
+
+1. Мы импортируем React, useState, useEffect и axios.
+2. Создаем состояние data для хранения данных, полученных с сервера.
+3. Внутри useEffect, объявляем асинхронную функцию fetchData, которая выполняет HTTP-запрос с помощью Axios.
+4. Вызываем функцию fetchData для выполнения запроса при монтировании компонента.
+5. Обрабатываем полученные данные и ошибки с помощью try и catch.
+6. Отображаем данные в пользовательском интерфейсе.
+
+Обратите внимание, что этот пример использует асинхронные функции и await для обработки промисов. Если вы предпочитаете использовать методы .then() и .catch(), вы также можете адаптировать пример для этого стиля.
