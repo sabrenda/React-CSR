@@ -22,12 +22,11 @@
 ---
 
 **👁️‍🗨️ Доп** 🔽 [в процессе...]
-1. Redux/toolkit
-2. Redux/Saga
-3. Axios
-4. Prisma ORM
-5. Redis
-6. Vitejs
+1. Prisma ORM
+2. Redux/toolkit /Saga
+3. Redis
+4. Webpack
+5. Vitejs
 
 ---
 ---
