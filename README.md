@@ -23,10 +23,17 @@
 
 **👁️‍🗨️ Доп** 🔽 [в процессе...]
 1. Prisma ORM
-2. Redux/toolkit /Saga
+2. Redux/toolkit | Saga
 3. Redis
 4. Webpack
 5. Vitejs
+6. MobX
+7. React Query
+8. Formik / React-hook-form
+9. Chart.js
+10. React-pdf
+11. Jest
+
 
 ---
 ---
