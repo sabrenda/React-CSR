@@ -9,7 +9,7 @@
  
  | | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="25" height="25">[React](#react)  |  |
  |:-----------------------------------|:-------------------------------------:| :------:|
-| <div align="center">[<img src="https://img.shields.io/badge/React--Hooks-20232A?style=for-the-badge&logo=react" alt="React"/>](#react-hooks)</div> |<div align="center"> [<img src="https://img.shields.io/badge/React--Router-20232A?style=for-the-badge&logo=reactrouter" alt="React"/>](#react-router)</div>      | Other |
+| [📘React Hooks](#react-hooks)</div> |<div align="center"> [📗React Router](#react-router)</div>      | Other |
 |[⭐️ useState](#usestate) |<div align="left">[⭐️ BrowserRouter](#1---browserrouter) </div>| [<img src="https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux&color=593D88" alt="redux"/>](Redux.md) |
 | [⭐️ useEffect](#useeffect) | <div align="left">[⭐️ Routes](#2---routes) </div>|   [<img src="https://img.shields.io/badge/Sequelize-20232A?style=for-the-badge&logo=sequelize" alt="React"/>](SQLSequlize.md)  |
 |[⭐️ useCallback](#usecallback) | <div align="left">[⭐️ Route](#3---route) </div>| [<img src="https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=github" alt="git"/>](CheatsheetGit.md)  |
