@@ -13,8 +13,8 @@
 | [⭐️ useEffect](#useeffect) | <div align="left">[⭐️ Routes](#2---routes) </div>|   [<img src="https://img.shields.io/badge/Sequelize-20232A?style=for-the-badge&logo=sequelize" alt="React"/>](SQLSequlize.md)  |
 |[⭐️ useCallback](#usecallback) | <div align="left">[⭐️ Route](#3---route) </div>| [<img src="https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=github" alt="git"/>](CheatsheetGit.md)  |
 |[⭐️ useMemo](#usememo) | <div align="left">[⭐️ Outlet](#4---outlet)</div> |   [<img src="https://img.shields.io/badge/Axios-20232A?style=for-the-badge&logo=axios&color=5A29E4" alt="git"/>](Axios.md)    |
-|[⭐️ useContext](#usecontext) |<div align="left">[⭐️ Link / NavLink](#5---link-navLink) </div>|  [🏁 **INIT** ](#init)   |
-|[⭐️ useReducer](#usereducer) |<div align="left">[⭐️ Navigate / useNavigate / Redirect](#6---navigate-redirect-usenavigate) </div>| [⌨️ **Event handlers**](Event.md) |
+|[⭐️ useContext](#usecontext) |<div align="left">[⭐️ Link / NavLink](#5---link-navLink) </div>|  [🏁 INIT ](#init)   |
+|[⭐️ useReducer](#usereducer) |<div align="left">[⭐️ Navigate / useNavigate / Redirect](#6---navigate-redirect-usenavigate) </div>| [⌨️ Event handlers](Event.md) |
 |[⭐️ React memo](#react-memo) | <div align="left">[⭐️ useParams](#7---useparams) </div>|     [📝 Примеры кода ](#example)  |
 </div>
 
