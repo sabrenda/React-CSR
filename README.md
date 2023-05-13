@@ -7,7 +7,7 @@
 
  <div align="center">
  
- | | [<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" alt="React"/>](#react)  |  |
+ | | [React](#react)  |  |
  |:-----------------------------------|:-------------------------------------:| :------:|
 | <div align="center">[<img src="https://img.shields.io/badge/React--Hooks-20232A?style=for-the-badge&logo=react" alt="React"/>](#react-hooks)</div> |<div align="center"> [<img src="https://img.shields.io/badge/React--Router-20232A?style=for-the-badge&logo=reactrouter" alt="React"/>](#react-router)</div>      | Other |
 |[⭐️ useState](#usestate) |<div align="left">[⭐️ BrowserRouter](#1---browserrouter) </div>| [<img src="https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux&color=593D88" alt="redux"/>](Redux.md) |
