@@ -1,7 +1,6 @@
-<div align="center"><h1>⚡︎React | CheatSheet | CSR⚡︎</h1></div>
-
 <div id="gear-menu"></div>
 
+<div align="center"><h1>⚡︎React | CheatSheet | CSR⚡︎</h1></div>
  
   <div align="center"><h2>⚙️ Menu</h2></div>
 
