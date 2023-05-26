@@ -37,10 +37,10 @@
 ---
 ---
 ## INIT
-- `npx create-react-app client` | [Create React App: Docs](https://create-react-app.dev/)
-- `npx create-react-app client --template typescript` | [on TypeScript: Docs](https://create-react-app.dev/docs/adding-typescript/)
-- `npm i react-router-dom` | [React Router: Docs](https://reactrouter.com/en/main)
-- `npm i @reduxjs/toolkit react-redux @redux-devtools/extension` | [redux-toolkit: Docs](https://redux-toolkit.js.org/)
+- `npx create-react-app client` | инициализируем клиент приложение [Docs](https://create-react-app.dev/)
+- `npx create-react-app client --template typescript` | либо на ts [Docs](https://create-react-app.dev/docs/adding-typescript/)
+- `npm i react-router-dom` | установка роутов [Docs](https://reactrouter.com/en/main)
+- `npm i @reduxjs/toolkit react-redux @redux-devtools/extension` | установка redux [Docs](https://redux-toolkit.js.org/)
 - `npx eslint --init` | Установка eslint
 
 Расширения в браузер
